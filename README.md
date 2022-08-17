@@ -1,3 +1,5 @@
+<img src="https://github.com/Signor1/alarm-clock/blob/00b9ab0ea20795d5e2607a8cb08e47cdc8999dee/clockImg.png">
+
 
 # Digital Alarm Clock
 ## Date and Time
